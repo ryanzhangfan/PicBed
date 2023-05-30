@@ -1,0 +1,1 @@
+final-table-players	The poker players are posing for a photo.	'a group of people sitting around a table' 'the poker players are posing for a photo' 'the group is posing for a photo in front of their table'
